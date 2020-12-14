@@ -1,0 +1,282 @@
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\XT\QuanLyKhachSan-20200606T054456Z-001\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.frmHoadon.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.frmKH.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.Phong.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\XT\Visual Studio\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.frmHoadon.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.frmKH.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanlyKS.Phong.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Project\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\CDTH18D\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\CDTH18D\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.frmHoadon.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.frmKH.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.Phong.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\CDTH18D\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\_\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\_\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\_\WinForm\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.frmHoadon.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.frmKH.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanlyKS.Phong.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\_\WinForm\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\Project\C#\QuanLyKhachSanBHD\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project\C#\QuanLyKhachSanBHD\bin\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSanBHD\bin\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanlyKS.frmHoadon.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanlyKS.Phong.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSanBHD\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\Project\C#\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project\C#\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\XT\Visual Studio\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\XT\Visual Studio\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\XT\Visual Studio\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanlyKS.frmHoadon.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHoaDonDP.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\XT\Visual Studio\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+E:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Project\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+F:\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QLKS_ht1\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTruyVanHD.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project\C#\QLKS\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QLKS\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormChinh.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangKyPHG.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDichVu.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiDV.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmLoaiPhong.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHDDP.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLPHG.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongKe.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTimKiem.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTruyVanHD.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanVien.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhg.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLiHD.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project\C#\QLKS\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
